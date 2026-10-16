@@ -5,7 +5,7 @@ const Header = () => {
     <header id="header" className="fixed-top">
       <div className="container d-flex align-items-center justify-content-between">
         <h1 className="logo">
-          <a href="index.html">RahulFolio</a>
+          <a href="index.html">RahulFolio123</a>
         </h1>
         <nav id="navbar" className="navbar">
           <ul>
